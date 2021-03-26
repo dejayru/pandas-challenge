@@ -22,8 +22,8 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 Total Number of Players:
 
-Total Players
-0	576
+![image](https://user-images.githubusercontent.com/78757067/112644421-c547a480-8e1b-11eb-9fad-839eb8f89c37.png)
+
 
 **II.** **Purchasing Analysis (Total)**
 
