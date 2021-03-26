@@ -71,6 +71,7 @@ Purchase Count
 Average Purchase Price
 Total Purchase Value
 
+![image](https://user-images.githubusercontent.com/78757067/112657104-72c0b500-8e28-11eb-8c5c-f7de48a0ce79.png)
 
 **VII. Most Popular Items**
 
@@ -82,7 +83,7 @@ Purchase Count
 Item Price
 Total Purchase Value
 
-
+![image](https://user-images.githubusercontent.com/78757067/112657165-83712b00-8e28-11eb-80ef-1ec50f41d665.png)
 
 
 **VIII. Most Profitable Items**
@@ -94,3 +95,5 @@ Item Name
 Purchase Count
 Item Price
 Total Purchase Value
+
+![image](https://user-images.githubusercontent.com/78757067/112657235-97b52800-8e28-11eb-93da-6558cd75a1c3.png)
