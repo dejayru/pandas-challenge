@@ -35,3 +35,10 @@ Total Revenue
 Percentage and Count of Male Players
 Percentage and Count of Female Players
 Percentage and Count of Other / Non-Disclosed
+
+**IV. Purchasing Analysis (By Gender)**
+
+Purchase Count
+Average Purchase Price
+Total Purchase Value
+Average Purchase Total per Person by Gender
