@@ -32,6 +32,8 @@ Average Purchase Price
 Total Number of Purchases
 Total Revenue
 
+![image](https://user-images.githubusercontent.com/78757067/112656191-8586ba00-8e27-11eb-8def-f7ea4ea25dd6.png)
+
 **III. Gender Demographics**
 
 Percentage and Count of Male Players
