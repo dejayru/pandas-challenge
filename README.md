@@ -40,6 +40,8 @@ Percentage and Count of Male Players
 Percentage and Count of Female Players
 Percentage and Count of Other / Non-Disclosed
 
+![image](https://user-images.githubusercontent.com/78757067/112656297-a2bb8880-8e27-11eb-9a66-c5725d87bad2.png)
+
 **IV. Purchasing Analysis (By Gender)**
 
 Purchase Count
