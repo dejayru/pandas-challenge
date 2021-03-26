@@ -49,6 +49,8 @@ Average Purchase Price
 Total Purchase Value
 Average Purchase Total per Person by Gender
 
+![image](https://user-images.githubusercontent.com/78757067/112656471-d4ccea80-8e27-11eb-8dcb-b624ac0cbc1e.png)
+
 **V. Age Demographics**
 
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
@@ -58,7 +60,7 @@ Average Purchase Price
 Total Purchase Value
 Average Purchase Total per Person by Age Group
 
-
+![image](https://user-images.githubusercontent.com/78757067/112656590-ed3d0500-8e27-11eb-8b10-e968fc393138.png)
 
 **VI. Top Spenders**
 
